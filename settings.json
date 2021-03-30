@@ -1,0 +1,73 @@
+{
+  "workbench.preferredDarkColorTheme": "Tomorrow Night Blue",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "materialTheme.accent": "Breaking Bad",
+  "workbench.colorCustomizations": {
+    "editor.background": "#101422",
+
+    "activityBar.background": "#4cdfe9",
+    "activityBar.foreground": "#000000",
+
+    "badge.background": "#1ec9cf"
+  },
+  "editor.fontFamily": "Consolas, 'poppins', monospace",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "todohighlight.keywords": [
+    {
+      "text": "GET:",
+      "color": "#000000",
+      "backgroundColor": "#66ffff",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "POST:",
+      "color": "#000000",
+      "backgroundColor": "#66ffff",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "DELETE:",
+      "color": "#000000",
+      "backgroundColor": "#66ffff",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "PUT:",
+      "color": "#000000",
+      "backgroundColor": "#66ffff",
+      "overviewRulerColor": "grey"
+    }
+  ],
+  "Notes.notesLocation": "c:\\Users\\Dev\\Desktop\\jatin notes",
+
+  "editor.fontSize": 18,
+
+  "launch": {
+    "version": "0.2.0",
+
+    "configurations": [
+      {
+        "name": "C++ Compiler",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "C:/Program Files/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": true
+      }
+    ],
+    "compounds": []
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "C_Cpp.updateChannel": "Insiders",
+  "liveServer.settings.donotVerifyTags": true
+}
