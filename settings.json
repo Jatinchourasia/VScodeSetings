@@ -5,15 +5,16 @@
   "workbench.colorCustomizations": {
     "editor.background": "#101422",
 
-    "activityBar.background": "#4cdfe9",
+    "activityBar.background": "#F86466",
     "activityBar.foreground": "#000000",
+    "sideBar.background": "#272649",
 
     "badge.background": "#1ec9cf"
   },
   "editor.fontFamily": "Consolas, 'poppins', monospace",
   "explorer.confirmDragAndDrop": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
   "files.associations": {
     "*.js": "javascriptreact"
   },
@@ -69,5 +70,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "C_Cpp.updateChannel": "Insiders",
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.editorAssociations": []
 }
+
